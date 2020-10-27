@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_PT_I_PROJECT_C</CLSNAME>
+    <LANGU>1</LANGU>
+    <DESCRIPT>Generated Constants Interface</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PT_I_PROJECT_C</CLSNAME>
+     <CMPNAME>SC_ACTION</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Actions</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PT_I_PROJECT_C</CLSNAME>
+     <CMPNAME>SC_ACTION_ATTRIBUTE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Action Parameter Attributes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PT_I_PROJECT_C</CLSNAME>
+     <CMPNAME>SC_ALTERNATIVE_KEY</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Alternative Keys</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PT_I_PROJECT_C</CLSNAME>
+     <CMPNAME>SC_ASSOCIATION</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Associations</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PT_I_PROJECT_C</CLSNAME>
+     <CMPNAME>SC_ASSOCIATION_ATTRIBUTE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Association Parameter Attributes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PT_I_PROJECT_C</CLSNAME>
+     <CMPNAME>SC_DETERMINATION</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Determinations</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PT_I_PROJECT_C</CLSNAME>
+     <CMPNAME>SC_NODE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Nodes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PT_I_PROJECT_C</CLSNAME>
+     <CMPNAME>SC_NODE_ATTRIBUTE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Node Attributes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_PT_I_PROJECT_C</CLSNAME>
+     <CMPNAME>SC_NODE_CATEGORY</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Node Categories</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

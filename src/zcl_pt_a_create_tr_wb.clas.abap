@@ -1,0 +1,24 @@
+CLASS zcl_pt_a_create_tr_wb DEFINITION
+  PUBLIC
+  INHERITING FROM ZCL_PT_A_TASK_CREATE_TR
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+  PROTECTED SECTION.
+    METHODS get_tr_type
+        REDEFINITION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_pt_a_create_tr_wb IMPLEMENTATION.
+
+  METHOD get_tr_type.
+
+    type = 'K'.
+
+  ENDMETHOD.
+ENDCLASS.
